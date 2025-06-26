@@ -4,14 +4,14 @@
 Hi 👋, I'm Rajas a final year college student and full-stack web developer who loves building responsive, user-friendly applications.  
 Eager to apply my technical skills and passion for innovation in a dynamic environment.
 
-📫 **How to reach me:** rpilamkar@gmail.com *(update this with your real email or socials)*
+📫 **How to reach me:** rpilamkar@gmail.com 
 
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-HANDLE)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajas-ilamkar-593720209)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rajas_ilamkar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/rajas_ilamkar)
 
 ---
 
